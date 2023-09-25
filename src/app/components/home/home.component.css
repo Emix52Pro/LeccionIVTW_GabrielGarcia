@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to bottom, #ffffff, #16395c);
+    /* Cambia los colores según tus preferencias */
+}
+
+header {
+    background-color: #0d74e2;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 50px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.frontend,
+.backend {
+    padding: 50px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
